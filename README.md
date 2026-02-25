@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Joshua Felix 👋
 
-<!--
-**Joshuasct03/Joshuasct03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electronics and Communication Engineering student interested in  
+**Embedded Systems, Signal Processing, and Software-driven engineering solutions.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- MATLAB
+- Verilog
+- Signal Processing
+- Networking & SDN
+- Embedded Systems
+
+---
+
+## 🚀 Featured Projects
+- **SDN-based IoT Gateway** — QoS-aware traffic management using SDN
+- **Speech Enhancement using Spectral Subtraction** — DSP-based noise reduction in MATLAB
+- **Energy-Efficient ECG Transmission** *(Ongoing Final Year Project)*
+
+---
+
+## 🎯 Interests
+Embedded Systems • DSP • Networking • Applied Software Engineering
+
+📍 Thiruvananthapuram, India
